@@ -321,7 +321,7 @@ form .btn2{
     font-weight: 300;
     margin-top: 20px;
 }
-nav .fa-solid{
+/* nav .fa-solid{
     display: none;
 }
 @media only screen and (max-width: 600px){
@@ -334,7 +334,7 @@ nav .fa-solid{
     }
     nav ul{
         margin-left: 25px;
-    }
+    } 
     
     .header-text h1{
         font-size: 30px;
@@ -389,5 +389,5 @@ nav .fa-solid{
     color: #61b752;
     margin-top: -40px;
     display: block;
-}
+} */
 
