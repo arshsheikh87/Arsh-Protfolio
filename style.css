@@ -343,6 +343,7 @@ nav .fa-solid{
     nav .fa-solid{
         display: block;
         font-size: 25px;
+        margin-right: -60px;
     }
     nav ul{
         background: #ff004f;
